@@ -37,7 +37,7 @@
     
     <h1>  Chào mừng mọi người đến trang web của mình!</h1>
     
-    <img src=""aIt="Ảnh của tôi" class="anh-dai-dien"width="200" height="250">
+    <img src="https://drive.google.com/file/d/16nIUfRdLzVbNr9x_Gr6k2XBoRr4r0CZb/view?usp=drivesdk"aIt="Ảnh của tôi" class="anh-dai-dien"width="200" height="250">
     <div class="khung-ca-nhan">
     <img src 
     
